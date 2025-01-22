@@ -3,13 +3,11 @@ body, h1, h2, ul {
     padding: 0;
 }
 
-/* Set a background color for the body */
 body {
     background-color: #e8e8e8;
     font-family: Arial, sans-serif;
 }
 
-/* Style the navigation bar */
 nav {
     background-color: #333;
     color: #fff;
@@ -41,7 +39,6 @@ nav {
     margin-right: 20px;
 }
 
-/* Style the main content */
 .main {
     padding: 20px;
 }
